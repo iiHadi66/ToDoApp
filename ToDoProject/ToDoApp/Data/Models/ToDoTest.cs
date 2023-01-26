@@ -6,7 +6,7 @@ namespace ToDoApp.Data.Models
     public class ToDoTest
     {
         [Fact]
-        public void AddTask_ShouldAddTaskToList()
+        public void AddTaskShouldAddTaskToList()
         {
             // Arrange
             var task = new TaskModels { TaskName = "Test Task" };
