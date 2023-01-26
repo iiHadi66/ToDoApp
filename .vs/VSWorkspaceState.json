@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ToDoProject",
+    "\\ToDoProject\\ToDoApp\\Pages",
+    "\\ToDoProject\\ToDoApp\\Pages\\Components"
   ],
   "PreviewInSolutionExplorer": false
 }

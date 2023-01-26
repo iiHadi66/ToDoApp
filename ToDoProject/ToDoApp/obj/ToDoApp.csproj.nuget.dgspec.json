@@ -49,6 +49,10 @@
               "target": "Package",
               "version": "[17.4.1, )"
             },
+            "bunit": {
+              "target": "Package",
+              "version": "[1.14.4, )"
+            },
             "xunit": {
               "target": "Package",
               "version": "[2.4.2, )"

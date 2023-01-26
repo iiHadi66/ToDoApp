@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jbeEjGDqhDjBviH7ZeZ+lLPEQLZReiJL7N4LafHuMKM=",
+  "Hash": "JukNPmaHTD+W4/FYOssurgl5tebH6vY90KFzWYb2/98=",
   "Source": "ToDoApp",
   "BasePath": "_content/ToDoApp",
   "Mode": "Default",
@@ -16,6 +16,23 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\hadia\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\6.0.0\\staticwebassets\\AuthenticationService.js",
+      "SourceId": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\hadia\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\6.0.0\\staticwebassets\\",
+      "BasePath": "_content/Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+      "RelativePath": "AuthenticationService.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\hadia\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\6.0.0\\staticwebassets\\AuthenticationService.js"
+    },
     {
       "Identity": "C:\\Users\\hadia\\source\\repos\\ToDo\\ToDoProject\\ToDoApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ToDoApp.styles.css",
       "SourceId": "ToDoApp",
